@@ -6,12 +6,12 @@ import PROJECTS.control_layer.User;
 //import project.entity_layer.*;
 public class Main {
     public static void main(String[] args) {
-        new adminWorkSpace("adm","lianjun");
+        //new adminWorkSpace("adm","lianjun");
 
         /*User user = null;
 
         user.UserLogin();*/
-        //new loginScreen();//main entry
+        new loginScreen();//main entry
 
     }
 }
